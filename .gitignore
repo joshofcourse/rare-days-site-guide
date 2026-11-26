@@ -1,0 +1,6 @@
+node_modules
+dist
+.DS_Store
+public/fonts
+# Internal project notes: IDs, history, workspace details. Kept local.
+HANDOFF.md

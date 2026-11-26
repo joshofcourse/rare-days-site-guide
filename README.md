@@ -4,6 +4,9 @@ A local chat and voice front end for the ElevenLabs agent
 "Rare Days — Site Guide (local test)". Nothing here touches Webflow or the
 live site, and it is separate from the existing "February" agent.
 
+Live: https://joshofcourse.github.io/rare-days-site-guide/ (rebuilt and
+published by GitHub Actions on every push to `main`).
+
 ## Run it
 
 Needs Node 20.19+ or 22.12+.
